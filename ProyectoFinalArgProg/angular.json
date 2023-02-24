@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/loren/Desktop/curso programacion/PROYECTO/ProyectoFinalArgProg/ProyectoFinalArgProg/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/loren/Desktop/curso programacion/PROYECTO/ProyectoFinalArgProg/ProyectoFinalArgProg/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
