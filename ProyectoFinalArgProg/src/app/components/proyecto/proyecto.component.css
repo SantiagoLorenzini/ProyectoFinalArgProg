@@ -1,4 +1,24 @@
 .row{
-    background-color:rgb(99, 203, 230) ;
+    background-color:rgb(167, 237, 255) ;
     padding: 20px;
+    border-radius: 50px 50px 50px 50px;
+}
+.title{
+    border-radius: 50px 50px 50px 50px;
+    background-color: azure;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    border-radius: 10%;
+    margin-top: 30px;
+    height: 500px;
+}
+
+#texto{
+    margin-top: 30px;
+    text-align: center;
 }

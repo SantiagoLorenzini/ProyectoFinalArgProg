@@ -1,5 +1,6 @@
 .row{
     background-color:rgb(99, 203, 230) ;
+    border-radius: 50px 50px 50px 50px;
 }
 footer{
     color:aliceblue;
@@ -7,4 +8,5 @@ footer{
     flex-direction: column;
     text-align: center;
     box-shadow: 2px -2px 5px white;
+    border-radius: 50px 50px 50px 50px;
 }

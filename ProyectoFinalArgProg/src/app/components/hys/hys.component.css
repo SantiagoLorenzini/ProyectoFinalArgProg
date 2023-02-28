@@ -1,4 +1,16 @@
 .row{
-    background-color:  rgb(99, 203, 230);
+    background-color:  rgb(167, 237, 255);
     padding:20px;
+    border-radius: 50px 50px 50px 50px;
+    border: 2px solid white;
+    
+}
+.hys{
+    border-radius: 50px 50px 50px 50px;
+    background-color: azure;
+    height: 70px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
 }
