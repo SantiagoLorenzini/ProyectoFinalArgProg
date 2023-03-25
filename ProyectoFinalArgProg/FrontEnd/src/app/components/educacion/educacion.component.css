@@ -2,32 +2,33 @@
     padding: 20px;
     border: 2px solid white;
     background-color: rgb(167, 237, 255);
-    height:800px;
+    height:1000px;
     border-radius: 50px 50px 50px 50px;
-    font-family: arial;
-}
-.exp1, .exp2{
-    text-align: center;
-    margin-bottom: 50px;
+    font-family: "arial";
 }
 
-.exp{
+.title{
     border: 2px solid white;
     border-radius: 50px 50px 50px 50px;
-    text-align: center;
     background-color: azure;
+    text-align:center;
+    height: 55px;
     display: flex;
     font-weight: bold;
     height: 70px;
     align-items: center;
     justify-content: center;
+    
+}
+#ed1, #ed2, #ed3{
+    align-items: right;
+    text-align: left;
+    margin-top: 80px;
+    justify-content: center;
 }
 
-#exp1, #exp2{
-    margin-top: 30px;
-    text-align: center;
-}
-img{
-    border-radius: 50px 50px 50px 50px;
-    border: 2px solid white;
+#fot1, #fot2, #fot3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

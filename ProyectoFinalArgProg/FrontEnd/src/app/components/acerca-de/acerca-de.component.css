@@ -1,0 +1,187 @@
+.row{
+    padding: 20px;
+    border-radius:   50px;
+    justify-content: center;
+    font-family: 'calibri';
+    
+}
+div{
+    background-color: rgb(99, 203, 230);
+    text-align: center;
+    justify-content: center;
+}
+/*etiqueta de nombre*/
+#nombre{  
+    display: flex;
+    font-weight: bold;
+    height: 90px;
+    align-items: center;
+    justify-content: center;
+}
+
+#presentacion{
+    border: 2px solid rgb(22, 139, 148);
+    border-radius: 50px 50px 50px 50px;
+    background-color: azure;
+}
+
+#acerca{
+    border: 2px solid rgb(22, 139, 148);
+    border-radius: 50px 50px 50px 50px;
+    background-color: azure;
+    text-align:center;
+    margin-left: 10px; 
+    display: flex;
+    height: 190px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/*estilo de la foto, quiero que quede entre el banner y la pagina*/
+
+@media(min-width:300px) and (max-width:575px){
+    #fotodeperfil{
+        position: relative;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 40%;
+    }
+}
+@media(min-width:576px) and (max-width:650px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:360px;
+    }
+}
+@media(min-width:651px) and (max-width:750px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:380px;
+    }
+}
+@media(min-width:751px) and (max-width:850px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:410px;
+    }
+}
+@media(min-width:851px) and (max-width:950px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:460px;
+    }
+}
+@media(min-width:951px) and (max-width:1050px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:500px;
+    }
+}
+@media(min-width:1051px) and (max-width:1150px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:540px;
+    }
+}
+@media(min-width:1151px) and (max-width:1250px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:580px;
+    }
+}
+@media(min-width:1251px) and (max-width:1350px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:620px;
+    }
+}
+@media(min-width:1351px) and (max-width:1450px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:660px;
+    }
+}
+@media(min-width:1451px) and (max-width:1550px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:700px;
+    }
+}
+@media(min-width:1551px) and (max-width:1650px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:740px;
+    }
+}
+@media(min-width:1651px) and (max-width:1750px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:780px;
+    }
+}
+@media(min-width:1751px) and (max-width:1850px){
+    #fotodeperfil{
+        position: absolute;
+        border-radius: 100%;
+        border: 2px solid white;
+        width: 18%;
+        left:18px;
+        top:820px;
+    }
+}
+@media(min-width:1851px){
+    #fotodeperfil{
+        position:static;
+        border-radius: 100%;
+        border: 2px solid white;
+    }
+}

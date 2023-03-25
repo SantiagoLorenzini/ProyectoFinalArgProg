@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "C:/Users/loren/Desktop/curso programacion/PROYECTO/ProyectoFinalArgProg/ProyectoFinalArgProg/node_modules/bootstrap/dist/css/bootstrap.css"
+              "C:/Users/loren/Desktop/curso programacion/PROYECTO/ProyectoFinalArgProg/ProyectoFinalArgProg/FrontEnd/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "C:/Users/loren/Desktop/curso programacion/PROYECTO/ProyectoFinalArgProg/ProyectoFinalArgProg/node_modules/bootstrap/dist/js/bootstrap.js"
+              "C:/Users/loren/Desktop/curso programacion/PROYECTO/ProyectoFinalArgProg/ProyectoFinalArgProg/FrontEnd/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
